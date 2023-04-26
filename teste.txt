@@ -1,0 +1,3 @@
+My teste de verificação!
+
+ git config --global init.defaultBranch <name>
